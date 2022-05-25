@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-/Result/Desktop View.png
+design/Desktop.png
 
 ### Links
 
