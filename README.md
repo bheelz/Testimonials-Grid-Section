@@ -21,8 +21,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-design/Desktop.png
+[
+design/Desktop.png](https://github.com/bheelz/Testimonials-Grid-Section/blob/main/design/Desktop.png)
 
 ### Links
 
