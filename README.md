@@ -39,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to use Flexbox in TailwindCSS.
+I learnt how to use Grid in TailwindCSS.
 
 ## Author
 
