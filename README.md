@@ -22,6 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
+<p align="center">
+ <h3>DESKTOP VIEW</h3>
+<img src="https://github.com/bheelz/Testimonials-Grid-Section/blob/main/design/Desktop.png">
+</p>
+
 
 <p align="center">
  <h3>MOBILE VIEW</h3>
