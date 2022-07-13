@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://bheelz.github.io/Testimonials-Grid-Section/]
+- [Live Site](https://bheelz.github.io/testimonialsGridSection/)
 
 ### Built with
 
